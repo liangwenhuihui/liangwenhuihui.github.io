@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /favicon.ico
+Sitemap:https://liangwenhuihui.github.io/Sitemap.xml
